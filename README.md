@@ -23,7 +23,9 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 All Functionality Except for Staying Logged in across restarts.
+
 ![1](https://user-images.githubusercontent.com/73809628/135134120-a77d0d9f-5344-4faf-b37b-0ca5fb810dd3.gif)
 
 Functionality of staying logged in across restarts.
+
 ![2](https://user-images.githubusercontent.com/73809628/135134157-85c8d2a0-79fd-425a-ae7d-bce8d3711059.gif)
